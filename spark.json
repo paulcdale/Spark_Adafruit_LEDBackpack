@@ -1,0 +1,7 @@
+{
+  "name": "Spark_Adafruit_LEDBackpack",
+  "author": "Paul Dale",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A modification of the Adafruit LED Backpack to make it compatible with spark core"
+}
